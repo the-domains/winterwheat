@@ -1,0 +1,14 @@
+layout_spectrum: 0.8133431705646217
+typography_spectrum: 0.5965953038539737
+color:
+  brandStrength: 0.7078310479409993
+  lightness: 0.24359166878275573
+  saturation: 0.1460403515957296
+  rhythmicContrast: 0.9268331746570766
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: WinterWheat
