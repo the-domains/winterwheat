@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WinterWheat]]></title>
         <description><![CDATA[WinterWheat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/winterwheat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 00:36:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jul 2016 00:39:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/winterwheat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Updating LA's Historic Hollywood Roosevelt Hotel]]></title>
+            <description><![CDATA[<article><h1>Updating LA's Historic Hollywood Roosevelt Hotel</h1><p>On the roster of storied LA hotels, The Hollywood Roosevelt ranks high on the list, with its blend of Old Hollywood lore and allure. From The Tower to The Cabanas beside their David Hockney-painted pool, the entire property has played host to private parties and even more private conversations that would ultimately impact the surrounding city.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e18d9f17a192906c94659ac2a9c4a14e6edef3b0.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/design/updating-the-hollywood-roosevelt-hotel-la</link>
+            <guid isPermaLink="false">530e3841-3a36-46e4-ab79-1eb65353510e</guid>
+            <pubDate>Sat, 23 Jul 2016 00:39:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c97bb526-9944-4e77-8737-e70178331dcd.png">]]></description>
-            <link>undefinedb3e31224-786b-4290-ba59-12ff09c0e037/index.html</link>
+            <link>https://thegrid.ai/winterwheat/b3e31224-786b-4290-ba59-12ff09c0e037/index.html</link>
             <guid isPermaLink="false">b3e31224-786b-4290-ba59-12ff09c0e037</guid>
             <pubDate>Sat, 23 Jul 2016 00:36:20 GMT</pubDate>
         </item>
