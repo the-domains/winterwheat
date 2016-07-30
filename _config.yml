@@ -1,14 +1,26 @@
-layout_spectrum: 0.8133431705646217
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5965953038539737
 color:
-  brandStrength: 0.7078310479409993
-  lightness: 0.24359166878275573
   saturation: 0.1460403515957296
-  rhythmicContrast: 0.9268331746570766
+  brandStrength: 0.7142857
+  lightness: 0.2435916687827557
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
+    - '#3B2F2F'
+    - '#EAECDF'
+    - '#C5C7B7'
+    - '#9D776F'
+    - '#0B0A0A'
+  rhythmicContrast: 0.9268331746570766
+layout_spectrum: 0.4987469
 name: WinterWheat
