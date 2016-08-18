@@ -24,3 +24,7 @@ color:
   rhythmicContrast: 0.9268331746570766
 layout_spectrum: 0.4987469
 name: WinterWheat
+navigation:
+  - name: Webb & Co.
+    id: a2bd5e4f-98f9-4a05-bf4f-58f79219cfdd
+    type: content
