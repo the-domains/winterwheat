@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-23T00:39:12.468Z'
+datePublished: '2016-08-18T18:24:50.148Z'
 sourcePath: _posts/2016-04-15-raden-smart-luggage.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/travel/raden-smart-luggage-travel-tech'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - raden
   - luggage
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-22T22:14:29.433Z'
+dateModified: '2016-08-18T18:24:49.652Z'
 title: Webb & Co.
 app_links: []
 publisher: {}
@@ -32,6 +31,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: webb-and-co/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
